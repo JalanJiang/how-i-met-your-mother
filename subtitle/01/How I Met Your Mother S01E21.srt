@@ -1,0 +1,2997 @@
+1
+00:00:03,895 --> 00:00:05,813
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}老爸老妈罗曼史\n第一季 第二十一集{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}How.I.Met.Your.Mother\nSeason 01 Episode 21{\r}
+
+2
+00:00:13,677 --> 00:00:15,787
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}孩子们，人生就像一条黑暗的道路{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Kids,life is a dark road.{\r}
+
+3
+00:00:15,787 --> 00:00:17,609
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你永远看不清前方等待你的将是什么{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You never really know what's up ahead.{\r}
+
+4
+00:00:17,609 --> 00:00:20,295
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}一个夜晚，当你独自享受的行驶在这条道路上时{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}One night you're cruising along enjoying the ride,{\r}
+
+5
+00:00:20,295 --> 00:00:21,925
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}突然间{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and then all of a sudden,{\r}
+
+6
+00:00:22,788 --> 00:00:24,323
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你28岁了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}you're 28.{\r}
+
+7
+00:00:24,323 --> 00:00:26,145
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这是给生日男孩的千层面{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}For the birthday boy,lasagna.{\r}
+
+8
+00:00:26,145 --> 00:00:27,008
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}谢谢{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Thank you.{\r}
+
+9
+00:00:27,008 --> 00:00:29,022
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}小心，盘子很烫{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Careful.The plate is very hot.{\r}
+
+10
+00:00:29,022 --> 00:00:30,173
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}好的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}OKay.{\r}
+
+11
+00:00:31,516 --> 00:00:33,050
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}哦，来吧，碰一下{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Oh,go on,touch it.{\r}
+
+12
+00:00:34,009 --> 00:00:34,776
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}见鬼{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Sweet damn,{\r}
+
+13
+00:00:34,776 --> 00:00:36,503
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}好烫的盘子{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}that's a hot plate.{\r}
+
+14
+00:00:37,174 --> 00:00:38,229
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}好吧,那么,Barney,{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}All right,so,Barney,{\r}
+
+15
+00:00:38,229 --> 00:00:39,380
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你干不干啊?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}are you doing this or what?{\r}
+
+16
+00:00:39,380 --> 00:00:40,722
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}老天,Barney,别{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}jeez,Barney,don't do this.{\r}
+
+17
+00:00:40,722 --> 00:00:42,640
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我必须做，这是我给Ted的生日礼物{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I have to,it's my birthday present to Ted.{\r}
+
+18
+00:00:42,640 --> 00:00:43,599
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你不是一定要做{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You don't have to.{\r}
+
+19
+00:00:43,599 --> 00:00:45,038
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}拜托，会很丢人的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Please,it's going to be embarrassing{\r}
+
+20
+00:00:45,038 --> 00:00:46,285
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我们以后都不敢再来了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and we're going to have to stop coming here,{\r}
+
+21
+00:00:46,285 --> 00:00:47,532
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这可不怎么好...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}which will suck...{\r}
+
+22
+00:00:47,532 --> 00:00:50,121
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}补充一点，不来这可能会更健康{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}in addition to probably being kind of healthy.{\r}
+
+23
+00:00:50,313 --> 00:00:51,559
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}拜托,Marshall,{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Come on,Marshall,{\r}
+
+24
+00:00:51,559 --> 00:00:54,341
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这在什么时候都是泡妞的好招{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}it's the greatest pickup line of all time.{\r}
+
+25
+00:00:54,341 --> 00:00:55,492
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Barney\nBarney.{\r}
+
+26
+00:00:55,875 --> 00:00:57,026
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}天啊{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}gevalt.{\r}
+
+27
+00:00:59,520 --> 00:01:00,862
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}生日快乐,Ted{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}happy birthday,Ted.{\r}
+
+28
+00:01:03,739 --> 00:01:05,561
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}请原谅,有人告诉过你...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}excuse me,has anyone ever told Y...{\r}
+
+29
+00:01:05,561 --> 00:01:06,808
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}哦，天啊{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}oh,my god.{\r}
+
+30
+00:01:06,808 --> 00:01:07,575
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}怎么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What?{\r}
+
+31
+00:01:08,247 --> 00:01:09,781
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}叫救护车!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Call an ambulance!{\r}
+
+32
+00:01:09,781 --> 00:01:10,357
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}怎么回事?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What's going on?{\r}
+
+33
+00:01:10,357 --> 00:01:11,220
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}别说话{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Try not to speak.{\r}
+
+34
+00:01:11,220 --> 00:01:11,987
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}来，坐下{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Here,sit down.{\r}
+
+35
+00:01:11,987 --> 00:01:12,562
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}只要别说话{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Just don't talk,{\r}
+
+36
+00:01:12,562 --> 00:01:13,521
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}别说话{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}don't talk.{\r}
+
+37
+00:01:13,521 --> 00:01:14,193
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她没事吧?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Is she okay?{\r}
+
+38
+00:01:14,193 --> 00:01:15,919
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我认真的,拨911{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm serious,call 911.{\r}
+
+39
+00:01:15,919 --> 00:01:16,399
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}怎么了?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What's wrong?{\r}
+
+40
+00:01:16,399 --> 00:01:17,933
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}怎么回事?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What's the matter?{\r}
+
+41
+00:01:17,933 --> 00:01:18,604
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不要动{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Just don't move.{\r}
+
+42
+00:01:18,604 --> 00:01:19,084
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不要动{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Don't move.{\r}
+
+43
+00:01:19,084 --> 00:01:19,659
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}只要试着...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Just try...{\r}
+
+44
+00:01:19,659 --> 00:01:20,714
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}来，喝点水{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}here,have some water.{\r}
+
+45
+00:01:20,714 --> 00:01:21,961
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}水!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Water!{\r}
+
+46
+00:01:22,632 --> 00:01:23,879
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}来，喝了这个{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Here,drink this.{\r}
+
+47
+00:01:25,989 --> 00:01:27,236
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你知道吗，我看得越多{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You know,the more I watch this,{\r}
+
+48
+00:01:27,236 --> 00:01:30,880
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}就越觉得这个任何时候都合适的泡妞妙招没什么说服力{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}the less convinced I am that it's the\ngreatest pickup line of all time.{\r}
+
+49
+00:01:30,880 --> 00:01:32,319
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}等等{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Wait for it.{\r}
+
+50
+00:01:32,702 --> 00:01:33,757
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}28\n28.{\r}
+
+51
+00:01:33,757 --> 00:01:36,634
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}还有两年就是重要的三十岁{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Two more 'til the big one,three-O.{\r}
+
+52
+00:01:36,634 --> 00:01:39,607
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}事实上，我的30岁生日也不太糟糕{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Actually,my 30th birthday wasn't so bad.{\r}
+
+53
+00:01:39,607 --> 00:01:41,238
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}除了我的洗手间多了只羊{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}except for the goat in my bathroom.{\r}
+
+54
+00:01:41,238 --> 00:01:42,772
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}倒是个好故事{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Which is a great story.{\r}
+
+55
+00:01:42,772 --> 00:01:44,498
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但我以后再讲{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}But I'll get to that later.{\r}
+
+56
+00:01:44,498 --> 00:01:45,649
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}而且，你知道{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Still,you know,{\r}
+
+57
+00:01:45,649 --> 00:01:47,088
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}又老了一岁{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}another year older.{\r}
+
+58
+00:01:47,088 --> 00:01:48,335
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}却还是单身{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Still single.{\r}
+
+59
+00:01:48,335 --> 00:01:50,924
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你难道没有听到自己“Ted钟”在向前走吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You don't hear your Tedological clock ticking?{\r}
+
+60
+00:01:50,924 --> 00:01:51,595
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}没有{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Nope.{\r}
+
+61
+00:01:51,595 --> 00:01:53,418
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我按下睡眠键了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I hit the snooze button.{\r}
+
+62
+00:01:53,897 --> 00:01:55,815
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}护理员来了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}And here come the paramedics.{\r}
+
+63
+00:01:55,815 --> 00:01:57,541
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}哦，谢天谢地，你们来了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Oh,thank god,you're here.{\r}
+
+64
+00:01:57,541 --> 00:01:58,405
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}什么情况?!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What is going on?!{\r}
+
+65
+00:01:58,405 --> 00:02:00,035
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我想可能是内出血{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I think there might be some internal bleeding.{\r}
+
+66
+00:02:00,035 --> 00:02:01,569
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}可能有破裂{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Probably some fractures.{\r}
+
+67
+00:02:01,569 --> 00:02:02,433
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我们必须送她去医院{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}We got to get her to the hospital.{\r}
+
+68
+00:02:02,433 --> 00:02:03,487
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你在说什么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What are you talking about?{\r}
+
+69
+00:02:03,487 --> 00:02:04,830
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你摔的很重{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You've had a terrible fall.{\r}
+
+70
+00:02:04,830 --> 00:02:05,789
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我没有摔啊{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}No,I haven't.{\r}
+
+71
+00:02:05,789 --> 00:02:06,269
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}真的吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Really?{\r}
+
+72
+00:02:06,269 --> 00:02:08,858
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我发誓你是从天堂摔落下的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Cause I could swear you fell straight out of heaven.{\r}
+
+73
+00:02:08,858 --> 00:02:09,913
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}天使...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Angel...{\r}
+
+74
+00:02:12,598 --> 00:02:14,516
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}给他你的号码 {\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Give him your number.{\r}
+
+75
+00:02:14,516 --> 00:02:15,188
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}什么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What?{\r}
+
+76
+00:02:15,188 --> 00:02:17,010
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}给他你的号码 {\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Give him your number.{\r}
+
+77
+00:02:17,010 --> 00:02:17,489
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}什么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What?{\r}
+
+78
+00:02:17,489 --> 00:02:19,120
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}给他你的号码 {\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Give him your number.{\r}
+
+79
+00:02:19,120 --> 00:02:20,079
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你在让我难堪{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}you're embarrassing me.{\r}
+
+80
+00:02:20,079 --> 00:02:21,805
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}给他你的号码 {\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Give him your number.{\r}
+
+81
+00:02:21,805 --> 00:02:22,476
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你怎么...?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What are you...?{\r}
+
+82
+00:02:22,476 --> 00:02:23,819
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}-来吧\n-给他你的号码 {\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}-Come on.\n-Give him your number.{\r}
+
+83
+00:02:23,819 --> 00:02:24,586
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你不给我号码{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}They're not going to stop{\r}
+
+84
+00:02:24,586 --> 00:02:26,696
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}他们是不会停下的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}'til you give me your number.{\r}
+
+85
+00:02:26,696 --> 00:02:27,847
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}给他你的号码 {\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Give him your number.{\r}
+
+86
+00:02:27,847 --> 00:02:28,327
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}好吧!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}All right!{\r}
+
+87
+00:02:28,327 --> 00:02:29,861
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}成功!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}It works!{\r}
+
+88
+00:02:31,779 --> 00:02:34,944
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不敢相信她给了他号码 {\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I cannot believe that she gave him her number.{\r}
+
+89
+00:02:34,944 --> 00:02:37,725
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她可能真的脑子受损了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Maybe she really does have a brain injury.{\r}
+
+90
+00:02:38,397 --> 00:02:39,835
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}谢谢大家{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Thank you,everyone.{\r}
+
+91
+00:02:39,835 --> 00:02:40,506
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这很有意思{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}It's been fun.{\r}
+
+92
+00:02:40,506 --> 00:02:41,178
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这是服务生Wendy{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}It's Wendy the waitress.{\r}
+
+93
+00:02:41,178 --> 00:02:42,233
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}多给她点小费{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Tip her well.{\r}
+
+94
+00:02:42,233 --> 00:02:43,384
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}多谢你们{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Thanks a lot,guys.{\r}
+
+95
+00:02:43,384 --> 00:02:44,151
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Troilus和Cressida{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Troilus and Cressida.{\r}
+
+96
+00:02:44,151 --> 00:02:44,822
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}来自隔壁的剧场{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Neighborhood playhouse.{\r}
+
+97
+00:02:44,822 --> 00:02:46,357
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}去看他们的表演吧，他们很不错{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Check them out,they're good.{\r}
+
+98
+00:02:48,275 --> 00:02:49,809
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我知道我为什么还单身了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I realize why I'm still single.{\r}
+
+99
+00:02:49,809 --> 00:02:50,672
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我太挑剔了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm picky.{\r}
+
+100
+00:02:50,672 --> 00:02:51,535
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不会定下来的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm not going to settle.{\r}
+
+101
+00:02:51,535 --> 00:02:52,590
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我要娶的人,{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}If I'm going to marry someone,{\r}
+
+102
+00:02:52,590 --> 00:02:53,933
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}必须是完美的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}she has to be perfect.{\r}
+
+103
+00:02:53,933 --> 00:02:54,700
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}嗯，怎么样的完美?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Well,what's perfect?{\r}
+
+104
+00:02:54,700 --> 00:02:56,235
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}具体我可不知道{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}It's not like I have a list.{\r}
+
+105
+00:02:56,235 --> 00:02:56,714
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}哦，你知道{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Oh,yes,you do.{\r}
+
+106
+00:02:56,714 --> 00:02:58,440
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}迷人，大学毕业{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Attractive,college-educated,{\r}
+
+107
+00:02:58,440 --> 00:02:59,112
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她想要两个孩子--{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}she wants two kids--{\r}
+
+108
+00:02:59,112 --> 00:03:00,071
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}一个男孩，一个女孩...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}a boy and a girl...{\r}
+
+109
+00:03:00,071 --> 00:03:00,646
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这不难{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}that's not hard.{\r}
+
+110
+00:03:00,646 --> 00:03:01,605
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}-我知道，至少...\n-我还没说完{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}-I know at least...\n-I'm not done.{\r}
+
+111
+00:03:01,605 --> 00:03:02,564
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她喜欢狗{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}She likes dogs,{\r}
+
+112
+00:03:02,564 --> 00:03:03,523
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}喜欢Otis Redding{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Otis Redding,{\r}
+
+113
+00:03:03,523 --> 00:03:04,866
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}喜欢做填字游戏{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}does the crossword.{\r}
+
+114
+00:03:04,866 --> 00:03:05,729
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}擅长运动{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}She's into sports,{\r}
+
+115
+00:03:05,729 --> 00:03:06,976
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但是不要运动太多{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}but not so much so that her legs are,like,{\r}
+
+116
+00:03:06,976 --> 00:03:08,127
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}腿上肌肉比我还多的那种{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}more muscular than mine.{\r}
+
+117
+00:03:08,127 --> 00:03:09,182
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我觉得太奇怪，不喜欢{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}That weirds me out.{\r}
+
+118
+00:03:09,182 --> 00:03:11,292
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}而且她要能像Pixies里的Kim Deal\n那样弹低音电吉他{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}And she plays bass guitar like Kim \nDeal from the Pixies.{\r}
+
+119
+00:03:11,292 --> 00:03:13,018
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}或者像Sonic Youth里的Kim Gordon {\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Or Kim Gordon from Sonic Youth.{\r}
+
+120
+00:03:13,018 --> 00:03:14,936
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}或者像任何一个酷乐队里的Kim{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Any Kim from any cool band,really.{\r}
+
+121
+00:03:14,936 --> 00:03:15,991
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不要太挑剔{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Can't be too picky.{\r}
+
+122
+00:03:15,991 --> 00:03:17,909
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你永远找不到这样的女孩的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You're never going to find this girl.{\r}
+
+123
+00:03:17,909 --> 00:03:18,388
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}完全正确{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Exactly.{\r}
+
+124
+00:03:18,388 --> 00:03:20,307
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}所以我只能等她来找我{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So I'm just going to wait for her to come to me.{\r}
+
+125
+00:03:20,307 --> 00:03:22,704
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不想再计划无法计划的事情了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I am done trying to plan the unplannable.{\r}
+
+126
+00:03:22,704 --> 00:03:25,869
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}那么，你是认为命运会帮你搞定?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So,what,you think fate's just gonna take care of it?{\r}
+
+127
+00:03:25,869 --> 00:03:27,212
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这就是我的计划{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}That's the plan.{\r}
+
+128
+00:03:29,322 --> 00:03:30,185
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}然而我不知道{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}And little did I know,{\r}
+
+129
+00:03:30,185 --> 00:03:31,240
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}就在那一刻{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}at that very moment,{\r}
+
+130
+00:03:31,240 --> 00:03:31,911
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}命运--{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}fate--{\r}
+
+131
+00:03:31,911 --> 00:03:35,843
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}借助一台60万兆赫的超处理电脑{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}in the form of a 600 gigahertz superprocessing computer{\r}
+
+132
+00:03:35,843 --> 00:03:37,761
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}帮我搞定了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}was taking care of it.{\r}
+
+133
+00:03:43,036 --> 00:03:44,091
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你起早了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}you're up early.{\r}
+
+134
+00:03:44,091 --> 00:03:46,105
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我还以为我要用烤薄饼这招呢{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}thought I'd whip up some pancakes.{\r}
+
+135
+00:03:46,105 --> 00:03:46,872
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Marshall知道吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Does Marshall know?{\r}
+
+136
+00:03:46,872 --> 00:03:48,694
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}他听起来好像还在睡{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}He's still sound asleep.{\r}
+
+137
+00:03:54,736 --> 00:03:56,175
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}太棒了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Awesome.{\r}
+
+138
+00:03:56,558 --> 00:03:58,285
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}真太棒了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So awesome.{\r}
+
+139
+00:03:58,285 --> 00:04:00,490
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}天! 你是最棒的女孩{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}God! Best girl ever.{\r}
+
+140
+00:04:00,490 --> 00:04:01,641
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}干掉这些薄饼{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Screw these pancakes,{\r}
+
+141
+00:04:01,641 --> 00:04:04,135
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我要用糖浆把你裹起来然后吞掉{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I should cover you in syrup and gobble you up.{\r}
+
+142
+00:04:04,135 --> 00:04:05,573
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}求你别那么做{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Please don't do that.{\r}
+
+143
+00:04:07,108 --> 00:04:08,642
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}嘿，牛奶没坏吧?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Hey,is this milk any good?{\r}
+
+144
+00:04:12,382 --> 00:04:14,109
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我昨天喝了，也这样{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}that totally got me yesterday.{\r}
+
+145
+00:04:14,109 --> 00:04:16,123
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}天，那你为什么不扔掉?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}God,why didn't you throw it away?{\r}
+
+146
+00:04:17,178 --> 00:04:18,328
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}下班以后我要去买东西{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm going shopping after work.{\r}
+
+147
+00:04:18,328 --> 00:04:20,055
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}会带牛奶回来{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'll pick up some milk.{\r}
+
+148
+00:04:21,589 --> 00:04:24,179
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这些薄饼真让人高兴{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}These pancakes are delightful.{\r}
+
+149
+00:04:26,672 --> 00:04:28,015
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}怎么回事，宝贝?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What's wrong,baby?{\r}
+
+150
+00:04:29,549 --> 00:04:31,659
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这是我一天中最快乐的时候{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}This is the high point of my day.{\r}
+
+151
+00:04:31,659 --> 00:04:32,522
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}确实如此{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}It was true.{\r}
+
+152
+00:04:32,522 --> 00:04:34,728
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}瞧,Marshall一直梦想能用自己的律师学位{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}See,Marshall had always dreamed\n of using his law degree{\r}
+
+153
+00:04:34,728 --> 00:04:36,071
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}保护环境{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}to protect the environment.{\r}
+
+154
+00:04:36,071 --> 00:04:37,701
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但是他结婚需要钱{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}But he needed money for the wedding,{\r}
+
+155
+00:04:37,701 --> 00:04:40,291
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}所以他在Barney的公司实习两个月了...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}so he'd been interning for two months\n at Barney's firm...{\r}
+
+156
+00:04:40,291 --> 00:04:42,496
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}他恨在那的每一分钟{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and he hated every minute of it.{\r}
+
+157
+00:04:42,496 --> 00:04:42,976
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}嘿,Barney,{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Hey,Barney,{\r}
+
+158
+00:04:42,976 --> 00:04:45,757
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我填这些请购单时有点问题{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I had some questions about filling\nout these requisition forms.{\r}
+
+159
+00:04:45,757 --> 00:04:46,428
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}拿望远镜{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Binoculars.{\r}
+
+160
+00:04:46,428 --> 00:04:48,155
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我桌上那副{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Second pair on my desk.{\r}
+
+161
+00:04:48,155 --> 00:04:49,785
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我没时间玩匍匐的游戏,伙计{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I don't have time to be creepy,dude.{\r}
+
+162
+00:04:49,785 --> 00:04:51,032
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我有很多事做{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I have a lot of work to do.{\r}
+
+163
+00:04:51,032 --> 00:04:52,758
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}就看一下，好吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Just take a look,will ya?{\r}
+
+164
+00:04:53,238 --> 00:04:53,909
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}好{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Okay,{\r}
+
+165
+00:04:55,827 --> 00:04:56,498
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}角落的办公室{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}corner office.{\r}
+
+166
+00:04:56,498 --> 00:04:57,745
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}最顶层{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Top floor.{\r}
+
+167
+00:04:58,512 --> 00:04:59,663
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}看这人{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Check out that guy.{\r}
+
+168
+00:05:00,430 --> 00:05:01,965
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}他叫Clark Butterfield{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Name's Clark Butterfield.{\r}
+
+169
+00:05:01,965 --> 00:05:04,267
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}他在“Nicholson,Hewitt与West”工作{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}He works over at Nicholson,Hewitt and West{\r}
+
+170
+00:05:04,267 --> 00:05:05,034
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}每天早上,{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and every morning,{\r}
+
+171
+00:05:05,034 --> 00:05:07,431
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}他都要在楼下的熟食店定一个三明治{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}he orders a sandwich from the deli downstairs.{\r}
+
+172
+00:05:07,431 --> 00:05:08,294
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}然后?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So?{\r}
+
+173
+00:05:08,966 --> 00:05:11,555
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}猜猜我对他的三明治做了什么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So guess what I did to that sandwich?{\r}
+
+174
+00:05:11,555 --> 00:05:13,090
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}瞧，我拍了照{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Here,I took a picture.{\r}
+
+175
+00:05:16,638 --> 00:05:18,556
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}天啊{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Sweet lord.{\r}
+
+176
+00:05:18,556 --> 00:05:21,529
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}现在我要把这个照片发电子邮件给他{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}And now I'm e-mailing said picture to him.{\r}
+
+177
+00:05:33,230 --> 00:05:34,189
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}蹲下!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Duck!{\r}
+
+178
+00:05:34,572 --> 00:05:36,107
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你有病啊!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}That is sick!{\r}
+
+179
+00:05:38,888 --> 00:05:40,231
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}为什么这么做?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Why would you do that?{\r}
+
+180
+00:05:40,231 --> 00:05:40,710
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}谁知道?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Who knows?{\r}
+
+181
+00:05:40,710 --> 00:05:42,149
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这场交锋已经持续很久了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}This feud goes so far back{\r}
+
+182
+00:05:42,149 --> 00:05:43,683
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我都记不得谁先开的火了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I can't remember who fired the first shot.{\r}
+
+183
+00:05:43,683 --> 00:05:44,450
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You?{\r}
+
+184
+00:05:44,450 --> 00:05:45,505
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}正确{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Totally.{\r}
+
+185
+00:05:46,752 --> 00:05:48,382
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}瞧，只要你...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}look,if you would just...{\r}
+
+186
+00:05:48,766 --> 00:05:50,013
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你能帮我填完表格{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}help me fill out these forms,{\r}
+
+187
+00:05:50,013 --> 00:05:51,259
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}就太棒了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}that would be great.{\r}
+
+188
+00:05:52,219 --> 00:05:53,178
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}什么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What?{\r}
+
+189
+00:05:53,178 --> 00:05:55,575
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Butterfield会在四小时之内报复{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Butterfield is going to retaliate\nwithin the next four hours.{\r}
+
+190
+00:05:55,575 --> 00:05:56,630
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这是他的模式{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}That's been his pattern.{\r}
+
+191
+00:05:56,630 --> 00:05:58,260
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}现在是打仗,Eriksen{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}This is war,Eriksen.{\r}
+
+192
+00:05:58,260 --> 00:05:59,507
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我需要你改变日程,{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I need you to clear your schedule,{\r}
+
+193
+00:05:59,507 --> 00:06:01,617
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}打电话给Lily,告诉她你要晚下班{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}call Lily,tell her you'll be home late.{\r}
+
+194
+00:06:01,617 --> 00:06:02,768
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这太蠢了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}This is stupid.{\r}
+
+195
+00:06:02,768 --> 00:06:03,343
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}蠢...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Stu...{\r}
+
+196
+00:06:03,343 --> 00:06:04,207
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}拜托，伙计,{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}come on,man,{\r}
+
+197
+00:06:04,207 --> 00:06:06,796
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不是招你来这发挥你的律师技能的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I didn't recruit you to work\nhere for your lawyering skills.{\r}
+
+198
+00:06:06,796 --> 00:06:10,920
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我招你来是做我的恶作剧处理顾问{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I recruited you to be my executive \nmischief consultant.{\r}
+
+199
+00:06:10,920 --> 00:06:12,646
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这是我的工作,Barney{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}This is a job for me,Barney.{\r}
+
+200
+00:06:12,646 --> 00:06:14,085
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}是为婚礼多挣点钱的方法{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}It's a way to make some extra wedding money,{\r}
+
+201
+00:06:14,085 --> 00:06:14,564
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}就这样{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and that's it.{\r}
+
+202
+00:06:14,564 --> 00:06:15,235
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}现在对不起{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Now I'm sorry,{\r}
+
+203
+00:06:15,235 --> 00:06:17,249
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我还有工作要做{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}but I have work to do.{\r}
+
+204
+00:06:20,222 --> 00:06:22,141
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Tracy,请你进来一下好吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Tracy,could you come in here,please?{\r}
+
+205
+00:06:24,442 --> 00:06:25,593
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}请你通知Eriksen先生{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Would you please inform Mr. Eriksen{\r}
+
+206
+00:06:25,593 --> 00:06:27,607
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我再不会对他说话了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}that I'm no longer speaking to him.{\r}
+
+207
+00:06:29,046 --> 00:06:31,251
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Eriksen先生,Stinson先生再不...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Mr. Eriksen,Mr. Stinson is no longer...{\r}
+
+208
+00:06:31,251 --> 00:06:32,690
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我听到了\n谢谢你,Tracy{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I get it.Thank you,Tracy.{\r}
+
+209
+00:06:38,924 --> 00:06:39,691
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}喂?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}hello?{\r}
+
+210
+00:06:39,691 --> 00:06:40,554
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}喂{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Hello.{\r}
+
+211
+00:06:40,554 --> 00:06:43,719
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}请找一下Ted Mosby先生?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}May I speak with a Mr. Ted Mosby?{\r}
+
+212
+00:06:43,719 --> 00:06:44,486
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}请讲{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Speaking.{\r}
+
+213
+00:06:44,486 --> 00:06:46,212
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Mosby先生,你好吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Mr. Mosby,how you doing,sir?{\r}
+
+214
+00:06:46,212 --> 00:06:48,898
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我是爱情中心的Bob Rorschach{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Bob Rorschach over here at love solutions.{\r}
+
+215
+00:06:48,898 --> 00:06:51,775
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}六个月前，你曾申请过服务{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You signed up for our services\n about six months ago.{\r}
+
+216
+00:06:52,063 --> 00:06:53,885
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你们永远都找不到合适我的人选{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You guys never found me a match.{\r}
+
+217
+00:06:53,885 --> 00:06:54,748
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}对{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Right.{\r}
+
+218
+00:06:55,419 --> 00:06:57,337
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}事实上，这就是我打来的原因{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}actually,that's why I'm calling.{\r}
+
+219
+00:06:57,337 --> 00:06:58,872
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我们找到她了，先生{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}We found her,sir.{\r}
+
+220
+00:06:58,872 --> 00:07:00,502
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我们找到和你天生一对的女孩了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}We found your soul mate.{\r}
+
+221
+00:07:02,396 --> 00:07:03,355
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不明白{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I don't understand.{\r}
+
+222
+00:07:03,355 --> 00:07:04,314
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Ellen Pierce怎么不在?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}what happened to Ellen Pierce?{\r}
+
+223
+00:07:04,314 --> 00:07:06,328
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她不是这的老板吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Doesn't she run this place?{\r}
+
+224
+00:07:06,328 --> 00:07:08,246
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我的公司买下了这里{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}my firm bought out the company.{\r}
+
+225
+00:07:08,246 --> 00:07:10,548
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你知道，我们是经营肉类和纺织品聚合的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You know,we're a high-end meats\nand textiles conglomerate,{\r}
+
+226
+00:07:10,548 --> 00:07:14,863
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但是，董事会的天才想让经营多样化...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}but the geniuses at corporate decided\nthey wanted to diversify,so...{\r}
+
+227
+00:07:15,439 --> 00:07:16,589
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}所以我来了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}here I am.{\r}
+
+228
+00:07:17,165 --> 00:07:18,891
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这么说我找到可以高手了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So I'm in good hands.{\r}
+
+229
+00:07:18,891 --> 00:07:20,330
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你给我找到了合适的对象?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You found me a match?{\r}
+
+230
+00:07:20,330 --> 00:07:21,576
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她在这{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}There she is.{\r}
+
+231
+00:07:21,576 --> 00:07:22,727
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}和你天生一对的女孩{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Your soul mate.{\r}
+
+232
+00:07:22,727 --> 00:07:24,741
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这要收500美元{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}That'll be 500 bucks.{\r}
+
+233
+00:07:24,741 --> 00:07:25,221
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不行{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}No way.{\r}
+
+234
+00:07:25,221 --> 00:07:26,084
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}上次我付了钱{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}The last time I did this,{\r}
+
+235
+00:07:26,084 --> 00:07:27,427
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}那女孩却是订了婚的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}the girl turned out to be engaged.{\r}
+
+236
+00:07:27,427 --> 00:07:28,865
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她没有订婚{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}She's not engaged.{\r}
+
+237
+00:07:28,865 --> 00:07:30,304
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她是和你天生一对的女孩{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}She's your soul mate.{\r}
+
+238
+00:07:30,304 --> 00:07:31,550
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}看下文件吧{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Just read the file.{\r}
+
+239
+00:07:35,195 --> 00:07:36,346
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}于是我读了文件{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}so I read the file.{\r}
+
+240
+00:07:36,346 --> 00:07:37,113
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}天啊{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}And by god,{\r}
+
+241
+00:07:37,113 --> 00:07:39,127
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这个女人很完美{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}this woman was perfect.{\r}
+
+242
+00:07:39,127 --> 00:07:40,470
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她喜欢狗{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}She liked dogs,{\r}
+
+243
+00:07:40,470 --> 00:07:42,388
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她在加州北部过夏天{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}she spent her summers in North Carolina,{\r}
+
+244
+00:07:42,388 --> 00:07:43,922
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她弹低音电吉他{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}she played bass guitar,{\r}
+
+245
+00:07:43,922 --> 00:07:45,073
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她做计时填字游戏{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}she did the times crossword,{\r}
+
+246
+00:07:45,073 --> 00:07:45,744
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她打网球{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}she played tennis,{\r}
+
+247
+00:07:45,744 --> 00:07:46,607
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她喜欢老电影{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}she liked old movies,{\r}
+
+248
+00:07:46,607 --> 00:07:48,046
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她最喜欢的食物是千层面{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}her favorite food was lasagna,{\r}
+
+249
+00:07:48,046 --> 00:07:49,964
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她最喜欢的书是“霍乱时期的爱情”{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}her favorite book was love in the time of cholera,{\r}
+
+250
+00:07:49,964 --> 00:07:51,211
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她最喜欢的歌手是Otis Redding{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}her favorite singer was Otis Redding{\r}
+
+251
+00:07:51,211 --> 00:07:52,553
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}而且她想要两个孩子--{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and she wanted two kids--{\r}
+
+252
+00:07:52,553 --> 00:07:54,376
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}一个男孩和一个女孩{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}a boy and a girl.{\r}
+
+253
+00:07:55,718 --> 00:07:56,869
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}好吧{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}All right,fine.{\r}
+
+254
+00:07:56,869 --> 00:07:58,212
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}帮我安排吧{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Set it up.{\r}
+
+255
+00:07:58,979 --> 00:07:59,746
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你想见我{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You wanted to see me,{\r}
+
+256
+00:07:59,746 --> 00:08:01,952
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}所以我猜这代表我们又讲话了?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}so I guess that means we're talking again?{\r}
+
+257
+00:08:01,952 --> 00:08:03,391
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你能帮我尝尝这杯拿铁吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Will you taste this latte for me?{\r}
+
+258
+00:08:03,391 --> 00:08:04,925
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我想他们给了我无咖啡因的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I think they gave me decaf.{\r}
+
+259
+00:08:09,624 --> 00:08:10,679
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我觉得味道正常{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Tastes normal to me.{\r}
+
+260
+00:08:10,679 --> 00:08:12,118
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我也这么想的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}That's what I thought,too.{\r}
+
+261
+00:08:12,118 --> 00:08:14,132
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但是我收到了Butterfield的邮件{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Then I got this e-mail from Butterfield.{\r}
+
+262
+00:08:14,132 --> 00:08:15,283
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}天!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}god!{\r}
+
+263
+00:08:15,858 --> 00:08:17,680
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我也受害了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}It got me as well.{\r}
+
+264
+00:08:17,680 --> 00:08:20,078
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}那你为什么还让我喝?!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}then why did you have me drink it?!{\r}
+
+265
+00:08:20,078 --> 00:08:21,516
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}因为现在...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Because now...{\r}
+
+266
+00:08:21,516 --> 00:08:23,147
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你要加入了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}you're in.{\r}
+
+267
+00:08:23,914 --> 00:08:25,065
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}好{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Okay.{\r}
+
+268
+00:08:25,353 --> 00:08:26,887
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不要以为我会忽略{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Don't think I'm overlooking the obvious fact{\r}
+
+269
+00:08:26,887 --> 00:08:28,901
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我应该生你的气这么明显的事实{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}that I should just be mad at you.{\r}
+
+270
+00:08:29,285 --> 00:08:33,504
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但是恶作剧处理顾问Marshall Eriksen要汇报今天的指责了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}But executive mischief consultant\nMarshall Eriksen reporting for duty.{\r}
+
+271
+00:08:34,272 --> 00:08:36,861
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我们要让那个混蛋付出代价{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Let's make that bastard pay.{\r}
+
+272
+00:08:36,861 --> 00:08:38,396
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我们应该先刷刷牙吧?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You think that we should brush our teeth first?{\r}
+
+273
+00:08:38,396 --> 00:08:39,642
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}好像是个好主意{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}it's probably a good idea.{\r}
+
+274
+00:08:41,273 --> 00:08:44,150
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}那一夜我与我完美的对象有个约会{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So that night I had a blind date with my perfect match.{\r}
+
+275
+00:08:44,150 --> 00:08:44,917
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我太激动了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I was so excited,{\r}
+
+276
+00:08:44,917 --> 00:08:46,260
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}所以去早了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I got there early.{\r}
+
+277
+00:08:46,260 --> 00:08:48,178
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但是在约会还没开始前...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}But before it even started...{\r}
+
+278
+00:08:51,055 --> 00:08:52,110
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Lily?\nLily?{\r}
+
+279
+00:08:52,110 --> 00:08:53,644
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}嘿,Ted,你忙吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Hey,Ted,are you busy?{\r}
+
+280
+00:08:54,603 --> 00:08:55,754
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}是的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}yes.{\r}
+
+281
+00:08:56,617 --> 00:08:57,864
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}对了，天生一对，我忘了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}right. Soul mate.Forgot.{\r}
+
+282
+00:08:57,864 --> 00:09:00,262
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}听着你能坐出租车过来Duchess郡{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Listen,could you take a cab out to Duchess county{\r}
+
+283
+00:09:00,262 --> 00:09:02,467
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}来帮Marshall的Fiero车换个轮胎吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and change a flat on Marshall's Fiero?{\r}
+
+284
+00:09:02,467 --> 00:09:03,427
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}什么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What?{\r}
+
+285
+00:09:03,714 --> 00:09:04,290
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}什么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What?{\r}
+
+286
+00:09:04,290 --> 00:09:05,153
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}No.{\r}
+
+287
+00:09:05,153 --> 00:09:06,879
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你不能叫Marshall去吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Can't you just call Marshall?{\r}
+
+288
+00:09:06,879 --> 00:09:08,797
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Marshall不能知道这件事{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Marshall can't know about this.{\r}
+
+289
+00:09:08,797 --> 00:09:10,428
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}瞧,Ted,天黑了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Look,Ted,it's dark,{\r}
+
+290
+00:09:10,428 --> 00:09:11,962
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不会换轮胎{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I don't know how to change a tire,{\r}
+
+291
+00:09:11,962 --> 00:09:16,182
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}而且我开始想一个很恐怖的野营故事了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and I've stumbled into the beginning\nof a very scary campfire story.{\r}
+
+292
+00:09:16,182 --> 00:09:17,428
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}求你了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Can you please hurry?{\r}
+
+293
+00:09:17,428 --> 00:09:18,483
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不行，我在等...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I can't,I'm waiting...{\r}
+
+294
+00:09:18,483 --> 00:09:21,840
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}哦，我的天,那是一个带有一只铁钩手的流浪汉吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}oh,my god,is that a drifter with a\nhook for a hand?{\r}
+
+295
+00:09:21,840 --> 00:09:23,566
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不，流浪汉，别!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}No,drifter,no!{\r}
+
+296
+00:09:23,566 --> 00:09:25,101
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}拜托,Lily{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Come on,Lily.{\r}
+
+297
+00:09:25,101 --> 00:09:26,635
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你明白我意思了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}But you see my point.{\r}
+
+298
+00:09:27,882 --> 00:09:29,416
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}好吧，呆在那{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}all right,stay there.{\r}
+
+299
+00:09:29,416 --> 00:09:30,471
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我来了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm on my way.{\r}
+
+300
+00:09:33,849 --> 00:09:34,520
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}于是{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}And so,{\r}
+
+301
+00:09:34,520 --> 00:09:37,013
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}付了90美元出租车费后{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}one $90 cab ride later,{\r}
+
+302
+00:09:37,013 --> 00:09:39,219
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我到了个不知名的地方{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I was in the middle of nowhere.{\r}
+
+303
+00:09:40,850 --> 00:09:42,096
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}谢天谢地{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}thank god.{\r}
+
+304
+00:09:42,096 --> 00:09:43,631
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我很抱歉{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm so sorry about this.{\r}
+
+305
+00:09:43,631 --> 00:09:44,782
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你的约会推迟了吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Did you get a hold of your date?{\r}
+
+306
+00:09:44,782 --> 00:09:45,357
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}对{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Yes.{\r}
+
+307
+00:09:45,357 --> 00:09:47,563
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她对推迟一下没有意见吧?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}And was she okay about pushing it back?{\r}
+
+308
+00:09:47,563 --> 00:09:48,810
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}没有，因为她是完美的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Yes.Because she's perfect.{\r}
+
+309
+00:09:48,810 --> 00:09:50,344
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}那么我为什么要来?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So what am I doing here?{\r}
+
+310
+00:09:50,344 --> 00:09:51,879
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你永远别告诉Marshall{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You can never tell Marshall.{\r}
+
+311
+00:09:51,879 --> 00:09:52,358
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不会的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I won't.{\r}
+
+312
+00:09:52,358 --> 00:09:52,934
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}永远{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Ever.{\r}
+
+313
+00:09:52,934 --> 00:09:53,509
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}发誓{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Swear.{\r}
+
+314
+00:09:53,509 --> 00:09:56,194
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}用你没出生的儿子和女儿的生命发誓{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Swear on the lives of your unborn boy and girl.{\r}
+
+315
+00:09:56,194 --> 00:09:58,400
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我用Luke和Leia发誓{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I swear on Luke and Leia.{\r}
+
+316
+00:09:59,839 --> 00:10:00,989
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}大概一个月前{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}About a month ago,{\r}
+
+317
+00:10:00,989 --> 00:10:03,195
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我开始失眠{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I started getting insomnia.{\r}
+
+318
+00:10:03,675 --> 00:10:07,223
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我一直都很想嫁给Marshall{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Marrying Marshall had been\nall I wanted for a long time.{\r}
+
+319
+00:10:07,223 --> 00:10:08,566
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但是，现在真的要发生了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}But,now that it was really happening,{\r}
+
+320
+00:10:08,566 --> 00:10:10,963
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}却好像太重大太可怕{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}it seemed kind of huge and scary.{\r}
+
+321
+00:10:10,963 --> 00:10:12,690
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你和Marshall谈过这事吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Did you talk to Marshall about it?{\r}
+
+322
+00:10:12,690 --> 00:10:13,745
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}他不会懂的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}He wouldn't have understood.{\r}
+
+323
+00:10:13,745 --> 00:10:17,005
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}他对结婚不怎么紧张{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}He's not exactly nervous about tying the knot.{\r}
+
+324
+00:10:20,650 --> 00:10:22,664
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}所以我晚上就读书{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}so I spent my nights reading,{\r}
+
+325
+00:10:22,664 --> 00:10:23,815
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}画画{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}painting,{\r}
+
+326
+00:10:23,815 --> 00:10:26,020
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}玩游戏，还得了最高分...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}setting the high score on Super Bomberman...{\r}
+
+327
+00:10:26,020 --> 00:10:26,884
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}是你?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}That was you?{\r}
+
+328
+00:10:26,884 --> 00:10:27,459
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}太棒了!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Awesome!{\r}
+
+329
+00:10:27,459 --> 00:10:28,034
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我知道!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I know!{\r}
+
+330
+00:10:28,034 --> 00:10:29,952
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我刚进入地带，...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I just got in the zone and...{\r}
+
+331
+00:10:29,952 --> 00:10:31,871
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这不是重点{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}not the point of the story.{\r}
+
+332
+00:10:31,871 --> 00:10:33,885
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}然后我想到了Victoria{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}And then I started thinking about Victoria{\r}
+
+333
+00:10:33,885 --> 00:10:36,282
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她为了自己的梦想去了德国{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and how she followed her dream to Germany,{\r}
+
+334
+00:10:36,282 --> 00:10:38,296
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}然后我看到了这个艺术奖学金{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}then I found this art fellowship,{\r}
+
+335
+00:10:38,296 --> 00:10:38,776
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我猜猜{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Let me guess.{\r}
+
+336
+00:10:38,776 --> 00:10:40,981
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}在很远的地方{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}It's somewhere far away.{\r}
+
+337
+00:10:40,981 --> 00:10:42,516
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}旧金山{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}San Francisco.{\r}
+
+338
+00:10:43,187 --> 00:10:45,681
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但是我不是要去做{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}But it's not like I'm going to do it.{\r}
+
+339
+00:10:45,681 --> 00:10:47,887
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}日期和婚礼有冲突{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}The dates conflict with the wedding.{\r}
+
+340
+00:10:47,887 --> 00:10:50,188
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但我喜欢画画{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}But I love painting,{\r}
+
+341
+00:10:50,188 --> 00:10:53,257
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}一直想知道自己画的好不好{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and I've always wondered if I'm any good.{\r}
+
+342
+00:10:54,024 --> 00:10:55,847
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}用这个方法可以找出答案{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}This was a way to find out.{\r}
+
+343
+00:10:55,847 --> 00:10:57,477
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}面试是今晚{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}And the interview is tonight.{\r}
+
+344
+00:10:57,477 --> 00:10:59,011
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}在New Haven{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}In New Haven.{\r}
+
+345
+00:11:04,094 --> 00:11:05,916
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你不想结婚{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You don't want to get married.{\r}
+
+346
+00:11:05,916 --> 00:11:08,218
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我当然想结婚{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Of course I want to get married.{\r}
+
+347
+00:11:08,218 --> 00:11:09,177
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I...{\r}
+
+348
+00:11:09,177 --> 00:11:11,671
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不是说我一定会去{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}it's not like I was ever gonna do it.{\r}
+
+349
+00:11:11,671 --> 00:11:12,822
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我只是...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I just...{\r}
+
+350
+00:11:12,822 --> 00:11:16,082
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我只是想知道我能不能得到这个机会{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I just really wanted to see if I could get this.{\r}
+
+351
+00:11:16,082 --> 00:11:19,823
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Lily,我们住在美国文化和艺术的中心{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Lily,we live in the center of art and\n culture in America.{\r}
+
+352
+00:11:19,823 --> 00:11:22,220
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我确定你一定能在这找到一样有选择性的项目{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm sure you could find a program here\nthat's just as selective.{\r}
+
+353
+00:11:22,220 --> 00:11:24,522
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但是你选择了3,000里以外的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}But you chose one in a city 3,000 miles away,{\r}
+
+354
+00:11:24,522 --> 00:11:26,440
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}而且你没有告诉Marshall{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and you didn't tell Marshall.{\r}
+
+355
+00:11:26,440 --> 00:11:28,550
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我觉得这代表了什么已经很明显了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I think it's pretty clear what that means.{\r}
+
+356
+00:11:30,756 --> 00:11:32,386
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}好吧，我...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Okay,I was...{\r}
+
+357
+00:11:32,866 --> 00:11:35,263
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我是动摇了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I was having second thoughts.{\r}
+
+358
+00:11:35,647 --> 00:11:37,853
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但我不会再了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}But I'm not any more.{\r}
+
+359
+00:11:37,853 --> 00:11:38,716
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I...{\r}
+
+360
+00:11:38,716 --> 00:11:40,921
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我的意思是，轮胎坏了就预示{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I mean,this flat tire was a sign.{\r}
+
+361
+00:11:40,921 --> 00:11:42,744
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不该这么做{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm not supposed to do this.{\r}
+
+362
+00:11:42,744 --> 00:11:44,278
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我应该回家{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm supposed to go home{\r}
+
+363
+00:11:44,278 --> 00:11:46,196
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}和Marshall在一起{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and-and be with Marshall.{\r}
+
+364
+00:11:47,731 --> 00:11:49,361
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你一定觉得我很傻{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You must think I'm so stupid.{\r}
+
+365
+00:11:49,361 --> 00:11:50,991
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不觉得你傻{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I don't think you're stupid.{\r}
+
+366
+00:11:51,567 --> 00:11:52,334
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我爱Marshall{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I love Marshall.{\r}
+
+367
+00:11:52,334 --> 00:11:53,293
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我知道你爱他{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I know you do.{\r}
+
+368
+00:11:53,293 --> 00:11:54,636
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}过来{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Come here.{\r}
+
+369
+00:11:57,609 --> 00:11:58,951
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}没事的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}It's okay.{\r}
+
+370
+00:11:58,951 --> 00:12:00,006
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}瞧...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Look...{\r}
+
+371
+00:12:00,390 --> 00:12:01,541
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}婚姻是重大的事情{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}marriage is big.{\r}
+
+372
+00:12:01,541 --> 00:12:03,267
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你可以害怕{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You're allowed to freak out.{\r}
+
+373
+00:12:03,267 --> 00:12:05,473
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但是为什么只有我害怕?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}But why am I the only one?{\r}
+
+374
+00:12:05,473 --> 00:12:08,158
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}为什么Marshall就没做什么疯狂的事?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}How come Marshall isn't doing anything crazy?{\r}
+
+375
+00:12:08,158 --> 00:12:10,172
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}那么我们只需要一只大纸箱{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So all we need is one large shipping box{\r}
+
+376
+00:12:10,172 --> 00:12:12,090
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}和100只白老鼠{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and 100 white mice.{\r}
+
+377
+00:12:14,871 --> 00:12:15,926
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}完成{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}All done.{\r}
+
+378
+00:12:18,899 --> 00:12:21,009
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Ted,我们去New Haven吧{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Ted,let's go to New Haven.{\r}
+
+379
+00:12:21,009 --> 00:12:22,160
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Lily,\nLily,{\r}
+
+380
+00:12:22,160 --> 00:12:23,599
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}别对你自己做这样的事{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}don't do this to yourself.{\r}
+
+381
+00:12:23,599 --> 00:12:25,805
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我只是想知道我能不能入围{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I just need to know if I can get in.{\r}
+
+382
+00:12:25,805 --> 00:12:27,243
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}如果我去面试{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}If I do this interview,{\r}
+
+383
+00:12:27,243 --> 00:12:28,010
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}得到了这个项目{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and get into the program,{\r}
+
+384
+00:12:28,010 --> 00:12:28,682
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}到时我就能{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}then I'll know,{\r}
+
+385
+00:12:28,682 --> 00:12:30,120
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}忘记这一切{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and I can forget all about it,{\r}
+
+386
+00:12:30,120 --> 00:12:30,983
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}去结婚{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and get married.{\r}
+
+387
+00:12:30,983 --> 00:12:31,559
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}来吧!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Come on!{\r}
+
+388
+00:12:31,559 --> 00:12:32,518
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这是场冒险{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}It's an adventure.{\r}
+
+389
+00:12:32,518 --> 00:12:34,340
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不，这不是冒险{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}No,it's not an adventure.{\r}
+
+390
+00:12:34,340 --> 00:12:35,299
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这是个错误{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}It's a mistake.{\r}
+
+391
+00:12:35,299 --> 00:12:37,409
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}好吧，对，这是个错误{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Okay,yes,it's a mistake.{\r}
+
+392
+00:12:37,409 --> 00:12:38,656
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我知道这是个错误{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I know it's a mistake.{\r}
+
+393
+00:12:38,656 --> 00:12:40,670
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但生活中有些事情{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}But there are certain things in life{\r}
+
+394
+00:12:40,670 --> 00:12:41,725
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你知道会是错误{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}where you know it's a mistake{\r}
+
+395
+00:12:41,725 --> 00:12:43,259
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}却又不明确一定是错误{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}but you don't really know it's a mistake{\r}
+
+396
+00:12:43,259 --> 00:12:46,136
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}因为明确这是一个错误的唯一方法就是犯下这个错误{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}because the only way to really know it's\na mistake is to make the mistake,{\r}
+
+397
+00:12:46,136 --> 00:12:46,903
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}然后再回头看，就可以说{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and look back,and say,{\r}
+
+398
+00:12:46,903 --> 00:12:48,438
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}"对，是个错误"{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}"yep.That was a mistake."{\r}
+
+399
+00:12:48,438 --> 00:12:51,794
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}所以，不犯这个错误将是个更大的错误{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So,really,the bigger mistake would be to not make the mistake,{\r}
+
+400
+00:12:51,794 --> 00:12:53,713
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}因为这样你一辈子都不能肯定{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}because then you go your whole life\n not really knowing{\r}
+
+401
+00:12:53,713 --> 00:12:55,247
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这是不是错误{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}if something is a mistake or not.{\r}
+
+402
+00:12:55,247 --> 00:12:55,918
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}而且，见鬼{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}And,damn it,{\r}
+
+403
+00:12:55,918 --> 00:12:57,357
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我从来没犯过错误!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I've made no mistakes!{\r}
+
+404
+00:12:57,357 --> 00:12:58,795
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我什么都完成了--{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I've done all of this--{\r}
+
+405
+00:12:58,795 --> 00:13:01,673
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我的生活，爱情，事业--{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}my life,my relationship,my career--{\r}
+
+406
+00:13:01,673 --> 00:13:03,495
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}零错误{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}mistake-free.{\r}
+
+407
+00:13:03,878 --> 00:13:06,084
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你觉得有道理吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Does any of this make sense to you?{\r}
+
+408
+00:13:06,084 --> 00:13:08,482
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不知道,你说了很多次"错误"{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I don't know.,You said "mistake" a lot.{\r}
+
+409
+00:13:08,770 --> 00:13:10,496
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Lily,别这么做{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Lily,don't do this.{\r}
+
+410
+00:13:10,496 --> 00:13:12,797
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Ted,我两个月后就要结婚了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Ted,I'm getting married in two months,{\r}
+
+411
+00:13:12,797 --> 00:13:13,757
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我害怕{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and I'm freaking out,{\r}
+
+412
+00:13:13,757 --> 00:13:14,907
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}而你是我最好的朋友{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and you're my best friend,{\r}
+
+413
+00:13:14,907 --> 00:13:16,825
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}所以你必须原谅我这么做{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and you just have to forgive me for this.{\r}
+
+414
+00:13:16,825 --> 00:13:17,976
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}原谅你什么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Forgive you for what?{\r}
+
+415
+00:13:17,976 --> 00:13:19,415
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Lily\nLily.{\r}
+
+416
+00:13:19,415 --> 00:13:20,758
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Lily!\nLily!{\r}
+
+417
+00:13:25,265 --> 00:13:25,936
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Lily!\nLily!{\r}
+
+418
+00:13:25,936 --> 00:13:26,799
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}是Ted{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}this is Ted{\r}
+
+419
+00:13:26,799 --> 00:13:29,389
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}被你留在路边的人{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}the guy you left stranded by the side of the road.{\r}
+
+420
+00:13:29,389 --> 00:13:31,595
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我只是想说祝你在面试中好运{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I just wanted to say good luck with the interview,{\r}
+
+421
+00:13:31,595 --> 00:13:33,225
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}记住带牛奶回来...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}remember to pick up some milk...{\r}
+
+422
+00:13:33,225 --> 00:13:34,664
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}而我回去的时候{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and,when I get home,{\r}
+
+423
+00:13:34,664 --> 00:13:36,486
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}要杀了你{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm going to kill you.{\r}
+
+424
+00:13:37,349 --> 00:13:39,363
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}而且我也给了发了短信说了一样的话{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}And,also,I texted you the same thing.{\r}
+
+425
+00:13:47,419 --> 00:13:48,570
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我需要你帮个大忙{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I need a big favor.{\r}
+
+426
+00:13:48,570 --> 00:13:49,625
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}任何事都可以，兄弟{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Anything,bro.{\r}
+
+427
+00:13:49,625 --> 00:13:51,543
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我要你来Duchess郡接我{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I need you to come up to Duchess county\n and pick me up.{\r}
+
+428
+00:13:51,543 --> 00:13:52,694
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}No.{\r}
+
+429
+00:13:53,940 --> 00:13:55,187
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}事情紧急{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}It's kind of an emergency.{\r}
+
+430
+00:13:55,187 --> 00:13:57,297
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你在Duchess郡干吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What are you doing in Duchess county?{\r}
+
+431
+00:13:57,297 --> 00:13:58,352
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}摘苹果{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Apple picking.{\r}
+
+432
+00:13:58,352 --> 00:13:59,886
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你能过来吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Can you just get up here?{\r}
+
+433
+00:13:59,886 --> 00:14:00,845
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我希望我能帮你，兄弟{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I wish I could help,buddy,{\r}
+
+434
+00:14:00,845 --> 00:14:01,996
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但是我工作没办法脱身{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}but I'm stuck here at work.{\r}
+
+435
+00:14:01,996 --> 00:14:03,627
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我们好像被陷住了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}We're kind of swamped.{\r}
+
+436
+00:14:03,627 --> 00:14:04,777
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}是Ted?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Is that Ted?{\r}
+
+437
+00:14:04,777 --> 00:14:06,600
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}他被困在Duchess郡了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}He's stuck in Duchess county.{\r}
+
+438
+00:14:06,600 --> 00:14:08,038
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你今晚不是有个重大的约会吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Don't you have a big date tonight?{\r}
+
+439
+00:14:08,038 --> 00:14:09,669
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Marshall.嗨{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Marshall. Hi.{\r}
+
+440
+00:14:09,669 --> 00:14:10,819
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}是的，是的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Yes. Yes,I do.{\r}
+
+441
+00:14:10,819 --> 00:14:12,929
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}那你在Duchess郡干什么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So what are you doing in Duchess county?{\r}
+
+442
+00:14:13,505 --> 00:14:16,765
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}难道你兄弟来摘个苹果非得被拷问吗?tmd!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Can't a brother go apple picking without getting the third degree?Damn!{\r}
+
+443
+00:14:17,437 --> 00:14:18,300
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}好吧，坚持{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Okay,hang on.{\r}
+
+444
+00:14:18,300 --> 00:14:19,451
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我来接你{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm coming to get you.{\r}
+
+445
+00:14:19,451 --> 00:14:20,122
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}No!{\r}
+
+446
+00:14:20,122 --> 00:14:21,752
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}放松,伙计,我开Fiero去{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Relax,man.I'll take the Fiero.{\r}
+
+447
+00:14:21,752 --> 00:14:22,711
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不 不 不{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}No,no,no.{\r}
+
+448
+00:14:22,711 --> 00:14:23,287
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}只是...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Just...{\r}
+
+449
+00:14:23,287 --> 00:14:24,438
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}算了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}forget it.{\r}
+
+450
+00:14:24,821 --> 00:14:25,780
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}开个玩笑{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}A little prank.{\r}
+
+451
+00:14:25,780 --> 00:14:27,794
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不在Duchess郡{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm not in Duchess county.{\r}
+
+452
+00:14:27,794 --> 00:14:28,466
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}那么这是个玩笑?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So that's the prank?{\r}
+
+453
+00:14:28,466 --> 00:14:30,672
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你不在Duchess郡?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}That you're not in Duchess county?{\r}
+
+454
+00:14:30,672 --> 00:14:31,535
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}对{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Yep.{\r}
+
+455
+00:14:31,535 --> 00:14:32,877
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你上当了!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Gotcha!{\r}
+
+456
+00:14:32,877 --> 00:14:34,220
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}太经典了!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Classic!{\r}
+
+457
+00:14:34,220 --> 00:14:34,987
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我要挂了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Gotta go.{\r}
+
+458
+00:14:38,536 --> 00:14:39,111
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}瞧这个{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}check out this one.{\r}
+
+459
+00:14:39,111 --> 00:14:40,741
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}看起来确实像Butterfield{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}It actually looks like Butterfield.{\r}
+
+460
+00:14:42,947 --> 00:14:44,098
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你知道，远在国家科学研发公司{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You know,over at the NRDC,{\r}
+
+461
+00:14:44,098 --> 00:14:45,441
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}有一群真正忠诚的人们{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}it's a bunch of really committed people{\r}
+
+462
+00:14:45,441 --> 00:14:49,277
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}他们的工作是非常严肃的拯救地球{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}who take their job of saving the\nearth very,very seriously.{\r}
+
+463
+00:14:49,277 --> 00:14:49,948
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}那很棒{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Which is great,{\r}
+
+464
+00:14:49,948 --> 00:14:50,428
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}一切都是{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and everything,{\r}
+
+465
+00:14:50,428 --> 00:14:53,976
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但我想在那可没有这么开心{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}but I can't imagine having this much\n fun over there.{\r}
+
+466
+00:14:54,743 --> 00:14:57,141
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你想来这做全职?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You thinking about coming to work here full-time?{\r}
+
+467
+00:14:57,141 --> 00:14:58,580
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}也许{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Maybe.{\r}
+
+468
+00:14:59,059 --> 00:15:00,785
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}别告诉Lily,好吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Don't tell Lily,okay?{\r}
+
+469
+00:15:00,785 --> 00:15:02,032
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我要下班了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Taking off for the night.{\r}
+
+470
+00:15:02,032 --> 00:15:03,375
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}谢谢,Tracy{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Thanks,Tracy.{\r}
+
+471
+00:15:03,662 --> 00:15:07,595
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你们要在盒子上打洞吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Are you guys planning on punching\nsome holes in that box?{\r}
+
+472
+00:15:08,458 --> 00:15:10,088
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我们当然会{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Of course we are.{\r}
+
+473
+00:15:11,623 --> 00:15:12,198
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你会这么想?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Were you going to think of that?{\r}
+
+474
+00:15:12,198 --> 00:15:12,677
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}No.{\r}
+
+475
+00:15:12,677 --> 00:15:13,349
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}已经很坏了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}That would have been bad.{\r}
+
+476
+00:15:13,349 --> 00:15:14,308
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}糟透了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Horrible.{\r}
+
+477
+00:15:15,650 --> 00:15:19,391
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}幸运的是，我还可以打给一个人,让她载我回家{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Luckily,there was still one person I\ncould call to get a ride home.{\r}
+
+478
+00:15:19,391 --> 00:15:20,829
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}要搭车吗，牛仔?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Need a ride,cowboy?{\r}
+
+479
+00:15:20,829 --> 00:15:21,309
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}对不起{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Sorry.{\r}
+
+480
+00:15:21,309 --> 00:15:23,131
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不进陌生人的车{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I don't get in vans with strangers.{\r}
+
+481
+00:15:23,131 --> 00:15:23,994
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}太遭了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}too bad.{\r}
+
+482
+00:15:23,994 --> 00:15:25,145
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我有糖{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I got candy.{\r}
+
+483
+00:15:25,145 --> 00:15:26,679
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}糖?!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Candy?!{\r}
+
+484
+00:15:28,981 --> 00:15:30,612
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你不想告诉我你在Duchess郡{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So you're not going to tell me what you were doing{\r}
+
+485
+00:15:30,612 --> 00:15:32,530
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}的路边做什么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}by the side of a highway in Duchess county?{\r}
+
+486
+00:15:32,530 --> 00:15:33,201
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}对{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Nope.{\r}
+
+487
+00:15:33,201 --> 00:15:34,352
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}发誓要保密的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Sworn to secrecy.{\r}
+
+488
+00:15:34,352 --> 00:15:35,599
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}拜托{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}come on.{\r}
+
+489
+00:15:35,599 --> 00:15:37,325
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我喜欢你的帽子{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I like your hat.{\r}
+
+490
+00:15:37,325 --> 00:15:38,476
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}对{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Right.{\r}
+
+491
+00:15:38,476 --> 00:15:39,243
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这让人难堪{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}This is embarrassing.{\r}
+
+492
+00:15:39,243 --> 00:15:41,065
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我把头发“加亮”了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I got Highlights.{\r}
+
+493
+00:15:41,065 --> 00:15:43,079
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}在你的牙齿训练等候室?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}for the waiting room of your dental practice?{\r}
+
+494
+00:15:45,093 --> 00:15:46,436
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}“加亮”是本儿童杂志{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Highlights is a children's magazine.{\r}
+
+495
+00:15:46,436 --> 00:15:47,682
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我听懂了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I got it.{\r}
+
+496
+00:15:48,833 --> 00:15:49,792
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我以为看起来会很酷{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I thought it might look cool.{\r}
+
+497
+00:15:49,792 --> 00:15:52,286
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}而帮我染发的人把“加亮”理解为{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Of course my colorist took "Highlights" to mean,{\r}
+
+498
+00:15:52,286 --> 00:15:54,204
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}"我想看起来像只老虎"{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}"I want to look like a tiger,"{\r}
+
+499
+00:15:54,204 --> 00:15:55,547
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}所以我戴了帽子{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}hence the hat.{\r}
+
+500
+00:15:56,122 --> 00:15:57,273
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我一定要看看{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I gotta see this.{\r}
+
+501
+00:15:57,273 --> 00:15:57,944
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不行{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}No way.{\r}
+
+502
+00:15:57,944 --> 00:15:58,615
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}求你{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Please.{\r}
+
+503
+00:15:58,615 --> 00:16:00,054
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我打赌看起来没那么遭{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I bet it doesn't look that bad.{\r}
+
+504
+00:16:00,054 --> 00:16:02,643
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我打赌看起来棒极了!{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I bet it looks grr-eat!{\r}
+
+505
+00:16:03,986 --> 00:16:04,849
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}所以{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So,{\r}
+
+506
+00:16:04,849 --> 00:16:07,247
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她说，改变话题{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}she says,changing the subject.{\r}
+
+507
+00:16:07,247 --> 00:16:08,590
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}今晚有重大约会啊{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Big date tonight.{\r}
+
+508
+00:16:08,590 --> 00:16:10,987
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她在Mosby的测试单上成绩如何?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}How does she rate on the Mosby checklist?{\r}
+
+509
+00:16:10,987 --> 00:16:12,330
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}有点太棒了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Kind of amazingly.{\r}
+
+510
+00:16:12,330 --> 00:16:13,768
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她和我一样28岁{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}she's 28,like me.{\r}
+
+511
+00:16:15,207 --> 00:16:16,262
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}哇，我28岁了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm 28.{\r}
+
+512
+00:16:16,837 --> 00:16:18,468
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}大学毕业-- 通过{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}college educated-- check.{\r}
+
+513
+00:16:18,468 --> 00:16:20,194
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}打网球-- 通过{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Plays tennis-- check.{\r}
+
+514
+00:16:20,194 --> 00:16:22,304
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}最喜欢的书是“霍乱时期的爱情”-- 通过{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}favorite book is love in the time of cholera-- check.{\r}
+
+515
+00:16:22,304 --> 00:16:23,359
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我读过{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I read that.{\r}
+
+516
+00:16:24,030 --> 00:16:26,811
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}更像 "无打扰时期的爱情"{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}More like "love in the time of don't bothera."{\r}
+
+517
+00:16:28,250 --> 00:16:29,784
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你知道，我得说，在室内戴帽子{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}you know,it's very rude to wear a hat indoors.{\r}
+
+518
+00:16:29,784 --> 00:16:30,552
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}是很不礼貌的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm just saying.{\r}
+
+519
+00:16:30,552 --> 00:16:31,511
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我们不在室内{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}We're not indoors.{\r}
+
+520
+00:16:31,511 --> 00:16:32,374
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我们在货车里{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}We're in a van.{\r}
+
+521
+00:16:32,374 --> 00:16:33,237
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}货车有门--{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Vans have doors--{\r}
+
+522
+00:16:33,237 --> 00:16:34,100
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}让我看看你的头发{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}let me see your hair.{\r}
+
+523
+00:16:34,100 --> 00:16:35,059
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不给{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Never.{\r}
+
+524
+00:16:35,059 --> 00:16:36,018
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}还有什么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What else?{\r}
+
+525
+00:16:36,018 --> 00:16:37,361
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她喜欢千层面{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}She loves lasagna.{\r}
+
+526
+00:16:37,361 --> 00:16:38,032
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}呕吐{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Barf.{\r}
+
+527
+00:16:38,032 --> 00:16:38,703
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你知道{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You know,{\r}
+
+528
+00:16:38,703 --> 00:16:40,621
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我感觉到了一个图案{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I am sensing a pattern here.{\r}
+
+529
+00:16:41,005 --> 00:16:42,156
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}还有什么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What else?{\r}
+
+530
+00:16:42,923 --> 00:16:43,978
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}让我想想还有什么...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}let's see what else...{\r}
+
+531
+00:16:43,978 --> 00:16:46,184
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她不喜欢看起来像老虎-- 通过{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}she doesn't look like a tiger-- check.{\r}
+
+532
+00:16:47,910 --> 00:16:49,828
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她想结婚生孩子吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}And she's looking to get married and have kids?{\r}
+
+533
+00:16:49,828 --> 00:16:50,691
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}通过 通过{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Check and check.{\r}
+
+534
+00:16:50,691 --> 00:16:51,554
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}她想要两个孩子--{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}She wants two kids--{\r}
+
+535
+00:16:51,554 --> 00:16:52,705
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}一个男孩，一个女孩{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}a boy and a girl.{\r}
+
+536
+00:16:54,432 --> 00:16:56,350
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你知道，我一直在想这个{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You know,I've been thinking about this.{\r}
+
+537
+00:16:56,350 --> 00:16:58,651
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我觉得我不想要孩子{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I think I want to have zero kids.{\r}
+
+538
+00:16:58,651 --> 00:16:59,802
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}真的吗? 你不想要孩子?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Really? You don't want kids?{\r}
+
+539
+00:17:00,569 --> 00:17:01,433
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你知道,Ted,{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You know,Ted,{\r}
+
+540
+00:17:01,433 --> 00:17:04,502
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不是所有人都像你这么女人的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}not everyone is as much of a woman as you.{\r}
+
+541
+00:17:06,132 --> 00:17:07,283
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我在开车{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I'm driving.{\r}
+
+542
+00:17:11,503 --> 00:17:12,270
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}瞧{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}look at that.{\r}
+
+543
+00:17:12,270 --> 00:17:13,229
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}8:56.\n8:56.{\r}
+
+544
+00:17:13,229 --> 00:17:14,188
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我们来早了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You're early.{\r}
+
+545
+00:17:15,051 --> 00:17:16,202
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}嘿，谢谢你接我{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Hey,thanks for picking me up.{\r}
+
+546
+00:17:16,202 --> 00:17:17,928
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}祝你约会好运{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Good luck on your date.{\r}
+
+547
+00:17:17,928 --> 00:17:19,942
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我希望她就是你要找的{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I hope she's everything you're looking for.{\r}
+
+548
+00:17:21,381 --> 00:17:22,436
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}谢谢{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Thanks.{\r}
+
+549
+00:17:26,272 --> 00:17:29,149
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}好吧，这一晚你显然过得不好{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}all right,you've clearly had a rough night.{\r}
+
+550
+00:17:29,149 --> 00:17:32,218
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我希望你进去的时候面带微笑，所以{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I want you to go in there with a\nsmile on your face,so,{\r}
+
+551
+00:17:32,218 --> 00:17:33,273
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我要这么做{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}here's what I'm gonna do.{\r}
+
+552
+00:17:33,273 --> 00:17:34,807
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你要给我看你的头发?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You're gonna show me your hair?{\r}
+
+553
+00:17:34,807 --> 00:17:36,917
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}事实上，我本来想让你看我的胸部...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Actually,I was gonna show you my breasts,but...{\r}
+
+554
+00:17:36,917 --> 00:17:38,547
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}当然，也可以看头发{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}sure,we can do hair.{\r}
+
+555
+00:17:48,042 --> 00:17:49,576
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你让我的夜晚很愉快{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}you just made my night.{\r}
+
+556
+00:17:51,686 --> 00:17:52,549
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}去吧{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Go.{\r}
+
+557
+00:18:50,571 --> 00:18:51,243
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}明天早上{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Tomorrow morning,{\r}
+
+558
+00:18:51,243 --> 00:18:53,257
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Barney会送包裹{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Barney's gonna send out the package,{\r}
+
+559
+00:18:53,257 --> 00:18:56,805
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Butterfield会被老鼠气死{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}and Butterfield's gonna be\nknee-deep in angry white mice.{\r}
+
+560
+00:18:57,764 --> 00:18:58,435
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}伙计{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}dude.{\r}
+
+561
+00:18:58,435 --> 00:18:59,490
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}嘿,伙计们{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Hey,guys.{\r}
+
+562
+00:19:00,162 --> 00:19:01,409
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}嗨{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Hi.{\r}
+
+563
+00:19:01,409 --> 00:19:02,368
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}嘿{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Hey.{\r}
+
+564
+00:19:02,655 --> 00:19:04,286
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Lil,你{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}So,Lil,did you,{\r}
+
+565
+00:19:05,341 --> 00:19:06,396
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}买牛奶了吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}get the milk?{\r}
+
+566
+00:19:09,752 --> 00:19:11,191
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我 我买了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I-I got it.{\r}
+
+567
+00:19:11,383 --> 00:19:13,013
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你觉得你想...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You think you might wanna...{\r}
+
+568
+00:19:13,013 --> 00:19:14,643
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}喝牛奶吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}drink the milk?{\r}
+
+569
+00:19:15,506 --> 00:19:16,561
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}No.{\r}
+
+570
+00:19:17,041 --> 00:19:18,671
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}不，我很好{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Nope,I'm good.{\r}
+
+571
+00:19:19,151 --> 00:19:20,781
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不需要牛奶{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I don't need any milk.{\r}
+
+572
+00:19:23,946 --> 00:19:24,905
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}瞧{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Look,guys,{\r}
+
+573
+00:19:24,905 --> 00:19:26,727
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我知道牛奶很重要--{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I know milk is important--{\r}
+
+574
+00:19:26,727 --> 00:19:27,878
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}富含维他命A{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}it's got vitamin A,{\r}
+
+575
+00:19:27,878 --> 00:19:29,412
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}维他命D{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}vitamin D,{\r}
+
+576
+00:19:29,412 --> 00:19:30,659
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}喝牛奶是一天的好开始--{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}it's a great way to start the morning--{\r}
+
+577
+00:19:30,659 --> 00:19:32,386
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但Ted刚结束了一个重大约会{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}but Ted just had a huge date.{\r}
+
+578
+00:19:32,386 --> 00:19:33,824
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}情况如何，伙计?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}How'd it go,dude?{\r}
+
+579
+00:19:34,495 --> 00:19:35,646
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我没去{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I didn't go.{\r}
+
+580
+00:19:35,646 --> 00:19:36,222
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}什么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}What?{\r}
+
+581
+00:19:36,222 --> 00:19:37,085
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}为什么?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Why?{\r}
+
+582
+00:19:37,085 --> 00:19:38,044
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我改变主意了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I changed my mind.{\r}
+
+583
+00:19:38,044 --> 00:19:39,674
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不想见她{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I don't want to meet her.{\r}
+
+584
+00:19:39,674 --> 00:19:41,976
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}为什么?她听起来完美极了{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Why? She sounds perfect.{\r}
+
+585
+00:19:41,976 --> 00:19:43,414
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我不想要完美{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I don't want perfect.{\r}
+
+586
+00:19:44,182 --> 00:19:45,524
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我想要Robin{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}I want Robin.{\r}
+
+587
+00:19:46,963 --> 00:19:48,785
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}天，又是这个{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}god,not this again.{\r}
+
+588
+00:19:48,785 --> 00:19:50,032
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}Ted,这是个错误{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Ted,it's a mistake.{\r}
+
+589
+00:19:50,032 --> 00:19:51,087
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}也许{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Maybe.{\r}
+
+590
+00:19:51,566 --> 00:19:54,252
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}但这是我必须犯的错误{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}But it's a mistake I have to make.{\r}
+
+591
+00:19:54,252 --> 00:19:55,307
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}错{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Wrong.{\r}
+
+592
+00:19:55,307 --> 00:19:56,841
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}这是你不必犯的错误{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}It's a mistake you don't have to make.{\r}
+
+593
+00:19:56,841 --> 00:19:57,704
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}我有证据{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Look at the evidence.{\r}
+
+594
+00:19:57,704 --> 00:20:00,006
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你和Robin试了一次又一次...{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}You and Robin have tried this again and again...{\r}
+
+595
+00:20:00,006 --> 00:20:01,636
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}错误就是这么一回事{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Here's the thing about mistakes.{\r}
+
+596
+00:20:01,636 --> 00:20:04,513
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}有时，即使你知道是个错误{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Sometimes,even when you know something's\n a mistake,{\r}
+
+597
+00:20:04,513 --> 00:20:05,856
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}你还是要犯{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}you gotta make it anyway.{\r}
+
+598
+00:20:07,007 --> 00:20:09,117
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}见鬼,好烫的盘子{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}sweet damn that's a hot plate.{\r}
+
+599
+00:20:09,117 --> 00:20:10,651
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}嘿，牛奶坏了吗?{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Hey,is this milk any good?{\r}
+
+600
+00:20:16,405 --> 00:20:19,283
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}即使是非常非常蠢的错误{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}Even really,really dumb mistakes{\r}
+
+601
+00:20:23,215 --> 00:20:25,133
+{\fn黑体\fs22\bord1\shad0\3a&HBE&\4a&H00&\fscx67\fscy66\2c&HFFFFFF&\3c&H808080&}老爸老妈罗曼史\n第一季 第二十一集{\r}
+{\fnarial black\fs12\bord1\shad0\4a&H00&\fscx90\fscy110}How.I.Met.Your.Mother\nSeason 01 Episode 21{\r}
+
