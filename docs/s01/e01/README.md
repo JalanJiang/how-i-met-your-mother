@@ -16,8 +16,17 @@
 - *You're getting engaged tonight!* 你今晚就要订婚了
 - *I want to drink a toast with my fiancee.* 我想和我的未婚妻庆祝一下
 - *I'm marrying that girl.* 我一定要娶那个女孩
+- *They'll get married, start a family.* 他们就要结婚，成家了
+- *Lesson 3, don't even think about getting married till you're 30.* 第三课，千万别想结婚的事情，三十岁以后再说
+- *simple ceremony, we are better on vows* 简单的婚礼，我们更在意誓言
+- *Yeah, nothing hotter than a guy planning out his imaginary wedding.* 好笑吧，一个男的想象自己的婚礼
+- 
 
-对于 Ted 来说，他见证了 Marshal 和 Lily 的所有时刻（*I've been there for all the big moment of you and Lily.*）。两个朋友即将步入婚姻，而他作为一只单身狗十分焦虑。这时他在酒吧遇见了 Robin。
+对于 Ted 来说，他见证了 Marshal 和 Lily 的所有时刻（*I've been there for all the big moment of you and Lily.*）。两个朋友即将步入婚姻，而他作为一只单身狗十分焦虑：
+
+> *You know, ever since college it's been Marshal and Lily and me. Now it's going to be Marshal and Lily, and me.*
+
+这时他在酒吧遇见了 Robin。
 
 Ted 初见 Robin 时在心里有如下对白：
 
@@ -25,40 +34,71 @@ Ted 初见 Robin 时在心里有如下对白：
 
 这段经典对白也被《爱情公寓》抄走，用于关谷初见悠悠时的内心独白。
 
+Ted 凡事都想先有个计划，不敢贸然行事。跟 Robin 打招呼前，他 *need a plan*，在接到 Robin 发出的信号前也不敢 kiss Robin。
+
+本集中出现了「蓝色圆号梗」，Ted 和 Robin 的聊天过程中也提及了一些乐器，包括：
+
+- ukulele
+- upright bass
+
+### 生词表
+
+### 表达
+
+- 要喝一杯庆祝一下的时候，可以说 *drink a toast*：*You pop up the champagne. You drink a toast. You have sex on the kitchen floor.*
+- 在人生中迈出关键一步：*Your uncle Marshal was taking the biggest step of his life.*
+- 对于混血儿可以称作：*half Asian girl*
+- 形容中年：*middle-aged*
+- 是否见过某人：*Hi, have you met Ted?*
+- Lily 表达被小屁孩上二垒：*A 5-year-old boy got to second base with me.*
+- 急中生智有一套：*Marshal was in the second year of law school, so he was pretty good at *thinking on his feet*.*
+- 成家立业：*I just couldn't imagine settling down right now.*
+- 愤怒表达：*Damn it!*
+- 喝酒喝多了：*Well, you're clearly drunk.*
+- 年龄足以做某事：*No, you're too old to be scared to open a bottle of champagne.*
+- 形容性感：*she likes dirty*（这样说应该不太礼貌）
+- 询问他人职业：*So what do you do?*
+- 夸人好看不要老是用 beautiful 了：*You are really pretty*
+
+### 金句
+
+- *There are two big questions a man has to ask in life: one you planned out for months, the other just slipps out when you're half drunk at some bar.*
+- *It was like something from an old movie, with a sailor sees the girl across the crowded dance floor, turns to his buddy, and says, 'see that girl? I'm going to marry her some day.'*
+
 ## 字幕列表
 
 | ID | Time | ZH | EN | Words | Remarks |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1 | 00.00.00,450 --> 00.00.02,067 | 2030年 |
-| 2 | 00.00.02,777 --> 00.00.05,771 | 孩子们，我要给你们讲一个美好的故事 | Kids, I'm going to tell you an incredible story. |
+| 2 | 00.00.02,777 --> 00.00.05,771 | 孩子们，我要给你们讲一个美好的故事 | Kids, I'm going to tell you an incredible story. | incredible |
 | 3 | 00.00.05,772 --> 00.00.08,323 | 是关于我和你们母亲相遇的故事 | the story of how I met your mother. |
-| 4 | 00.00.08,324 --> 00.00.10,164 | 我们是不是做错什么事情了？ | Are we being punished for something? |
+| 4 | 00.00.08,324 --> 00.00.10,164 | 我们是不是做错什么事情了？ | Are we being punished for something? | be published for |
 | 5 | 00.00.10,165 --> 00.00.11,278 | 不是 | No. |
 | 6 | 00.00.11,279 --> 00.00.13,789 | -这会不会讲很久<br>-是的 | -Is this going to take a while?<br>-Yes. |
 | 7 | 00.00.14,559 --> 00.00.18,835 | 25年前，我还没当父亲的时候<br>我的生活可大不相同 | 25 years ago, before I was dad,<br>I had this whole other life. |
-| 8 | 00.00.22,863 --> 00.00.24,952 | 这可要回到2005年 | It was way back to 2005. |
-| 9 | 00.00.24,953 --> 00.00.30,562 | 我还只有27岁，有一份建筑师的工作<br>和我大学时代最好的朋友Marshal合住在纽约 | I was 27，just starting to make it as an architect and living in New York with Marshal, my best friend from college.
-| 10 | 00.00.30,563 --> 00.00.34,114 | 本来我的生活一切OK<br>然后你们的Marshal叔叔把一切都搞砸了 | My life was good, and then uncle Marshal went to screw the whole thing up. |
+| 8 | 00.00.22,863 --> 00.00.24,952 | 这可要回到 2005 年 | It was way back to 2005. |
+| 9 | 00.00.24,953 --> 00.00.30,562 | 我还只有 27 岁，有一份建筑师的工作<br>和我大学时代最好的朋友Marshal合住在纽约 | I was 27，just starting to make it as an architect and living in New York with Marshal, my best friend from college. | | 🤓
+| 10 | 00.00.30,563 --> 00.00.34,114 | 本来我的生活一切OK<br>然后你们的Marshal叔叔把一切都搞砸了 | My life was good, and then uncle Marshal went to screw the whole thing up. | screw ... up | 🤓
 | 11 | 00.00.35,527 --> 00.00.36,846 | 你愿意嫁给我吗？ | Will you marry me? |
-| 12 | 00.00.38,057 --> 00.00.40,280 | 太好了，完美，你要订婚了 | Yes, perfect, and you're engaged. |
-| 13 | 00.00.40,281 --> 00.00.43,476 | 你开香槟，祝酒辞，然后在厨房地板上嘿咻 | You pop up the champagne. You drink a toast. You have sex on the kitchen floor. |
+| 12 | 00.00.38,057 --> 00.00.40,280 | 太好了，完美，你要订婚了 | Yes, perfect, and you're engaged. | engage |
+| 13 | 00.00.40,281 --> 00.00.43,476 | 你开香槟，祝酒辞，然后在厨房地板上嘿咻 | You pop up the champagne. You *drink a toast*. You have sex on the kitchen floor. | pop up
 | 14 | 00.00.44,171 --> 00.00.45,327 | 别在厨房地板上嘿咻 | Don't have sex on our kitchen floor. |
 | 15 | 00.00.45,556 --> 00.00.46,282 | 明白 | Got it. |
-| 16 | 00.00.46,283 --> 00.00.48,063 | 谢谢你帮我这个忙，Ted | Thanks for helping me plan this out, Ted. |
+| 16 | 00.00.46,283 --> 00.00.48,063 | 谢谢你帮我这个忙，Ted | Thanks for helping me plan this out, Ted. | plan ... out |
 | 17 | 00.00.48,064 --> 00.00.50,241 | 开什么玩笑，这可是你和Lily！ | Are you kidding? It's you and Lily! |
 | 18 | 00.00.50,242 --> 00.00.52,421 | 你们俩所有的关键时刻<br>我都在一旁帮助你的 | I've been there for all the big moment of you and Lily. |
 | 19 | 00.00.52,422 --> 00.00.55,031 | 你们第一次相见，第一次约会…… | The night you met, your first date, |
 | 20 | 00.00.55,607 --> 00.00.56,733 | 还有其他的“第一次”…… | other first things. |
 | 21 | 00.00.57,447 --> 00.00.59,728 | 呵呵，不好意思<br>我们还以为你睡着了呢 | Sorry, we thought you were asleep. |
-| 22 | 00.00.59,729 --> 00.01.03,245 | 这就是物理学，Marshal<br>下铺摇动，上铺也会跟着摇动 | It's physics, Marshal. If the bottom bunk moves, the top bunk moves, too. |
+| 22 | 00.00.59,729 --> 00.01.03,245 | 这就是物理学，Marshal<br>下铺摇动，上铺也会跟着摇动 | It's physics, Marshal. If the bottom bunk moves, the top bunk moves, too. | physics, bunk
 | 23 | 00.01.05,597 --> 00.01.06,404 | 上帝啊 | My God! |
 | 24 | 00.01.07,263 --> 00.01.08,921 | 你今晚就要订婚了 | You're getting engaged tonight! |
 | 25 | 00.01.09,977 --> 00.01.10,664 | 是啊 | Yeah. |
 | 26 | 00.01.11,006 --> 00.01.12,070 | 你今晚有什么计划？ | What are you doing tonight? |
 | 27 | 00.01.13,227 --> 00.01.14,441 | 我那晚干什么了来着？ | What was I doing? |
-| 28 | 00.01.14,442 --> 00.01.17,888 | 你们的Marshal叔叔踏出了人生的关键一步<br>而我呢……？ | Your uncle Marshal was taking the biggest step of his life. And me? |
-| 29 | 00.01.17,889 --> 00.01.19,740 | 我给你们的Barney叔叔打了电话 | I'm calling up your uncle Barney. |
-| 30 | 00.01.20,255 --> 00.01.22,734 | 嘿，伙计，还记得我说过<br>我对一半亚洲血统的小妞有偏好吗 | Hey, see, you know, however, I thought I had a thing for half Asian girls? |
+| 28 | 00.01.14,442 --> 00.01.17,888 | 你们的Marshal叔叔踏出了人生的关键一步<br>而我呢……？ | Your uncle Marshal was taking the biggest step of his life. And me? | take big step | 🤓
+| 29 | 00.01.17,889 --> 00.01.19,740 | 我给你们的Barney叔叔打了电话 | I'm calling up your uncle Barney. | call up |
+| 30 | 00.01.20,255 --> 00.01.22,734 | 嘿，伙计，还记得我说过<br>我对一半亚洲血统的小妞有偏好吗 | Hey, see, you know, however, I thought I had a thing for half Asian girls? | half Asian girls
 | 31 | 00.01.24,555 --> 00.01.25,944 | 现在我有新爱了 | Well, now I've got a new favourite, |
 | 32 | 00.01.25,945 --> 00.01.27,850 | 黎巴嫩妞儿 | Lebanese girls. |
 | 33 | 00.01.28,509 --> 00.01.30,197 | 黎巴嫩妞儿代表了新的半亚洲血统 | Lebanese girls are the new half Asians. |
@@ -67,25 +107,25 @@ Ted 初见 Robin 时在心里有如下对白：
 | 36 | 00.01.34,519 --> 00.01.35,248 | 记得穿西服！ | and suit up! |
 | 37 | 00.01.38,049 --> 00.01.38,871 | 嘿 | Hey. |
 | 38 | 00.01.39,141 --> 00.01.40,598 | 你的西装呢？ | Where is your suit? |
-| 39 | 00.01.40,599 --> 00.01.44,595 | -我跟你说穿得好一点，就是说要你穿上西服！<br>-我穿过……一回 | -Just once when I say 'suit up', I wish you'd put on a suit.<br>-I did, that one time. |
-| 40 | 00.01.45,025 --> 00.01.46,743 | 那是件夹克！ | It was a blazer. |
+| 39 | 00.01.40,599 --> 00.01.44,595 | -我跟你说穿得好一点，就是说要你穿上西服！<br>-我穿过……一回 | -Just once when I say 'suit up', I wish you'd put on a suit.<br>-I did, that one time. | put on a suit |
+| 40 | 00.01.45,025 --> 00.01.46,743 | 那是件夹克！ | It was a blazer. | blazer |
 | 41 | 00.01.48,005 --> 00.01.51,261 | 你知道吗，从大学开始<br>一直都是Marshal，Lily和我 | You know, ever since college it's been Marshal and Lily and me. |
 | 42 | 00.01.51,918 --> 00.01.54,410 | 而以后就会变成<br>Marshel和Lily……和我 | Now it's going to be Marshal and Lily, and me. |
 | 43 | 00.01.54,411 --> 00.01.55,950 | 他们就要结婚，成家了 | They'll get married, start a family. |
-| 44 | 00.01.55,951 --> 00.02.00,267 | 以后我就是他们家小孩眼里<br>古怪的中年单身汉Ted叔叔了 | Before long I'm that weird, middle-aged bechalor, their kids call 'uncle Ted'. |
+| 44 | 00.01.55,951 --> 00.02.00,267 | 以后我就是他们家小孩眼里<br>古怪的中年单身汉Ted叔叔了 | Before long I'm that weird, middle-aged bechalor, their kids call 'uncle Ted'. | weird, bechalor, middle-aged
 | 45 | 00.02.02,237 --> 00.02.03,801 | 我知道这是怎么回事了 | I see what this is about. |
 | 46 | 00.02.03,802 --> 00.02.06,004 | 你忘记我们第一回见面的时候<br>我怎么跟你说的了吗？ | Have you forgotten what I said to you the night we met? |
 | 47 | 00.02.08,275 --> 00.02.10,612 | Ted，我来教你怎么享受生活 | Ted, I'm going to teach you how to live. |
-| 48 | 00.02.11,695 --> 00.02.13,303 | 我是 Barney，我们是在小便池认识的 | Barney. We met at the urinal. |
+| 48 | 00.02.11,695 --> 00.02.13,303 | 我是 Barney，我们是在小便池认识的 | Barney. We met at the urinal. | urinal |
 | 49 | 00.02.13,662 --> 00.02.14,583 | 哦 | Oh, alright. |
 | 50 | 00.02.14,584 --> 00.02.15,115 | 对的 | Alright. |
-| 51 | 00.02.15,116 --> 00.02.16,844 | 第一课，跟你的山羊胡子说再见 | Lesson one, lose the goatee. |
-| 52 | 00.02.16,844 --> 00.02.18,022 | 它和你的西服不搭配 | It doesn't go with your suit. |
+| 51 | 00.02.15,116 --> 00.02.16,844 | 第一课，跟你的山羊胡子说再见 | Lesson one, lose the goatee. | goatee |
+| 52 | 00.02.16,844 --> 00.02.18,022 | 它和你的西服不搭配 | It doesn't go with your suit. | go with ... |
 | 53 | 00.02.18,023 --> 00.02.20,592 | -我没穿西服<br>-第二课，穿上西服 | -I'm not wearing a suit.<br>-Lesson two, get a suit. |
-| 54 | 00.02.20,922 --> 00.02.22,537 | 西服很好，有模有样 | Suits are cool, exhibitive. |
+| 54 | 00.02.20,922 --> 00.02.22,537 | 西服很好，有模有样 | Suits are cool, exhibitive. | exhibitive |
 | 55 | 00.02.23,347 --> 00.02.27,471 | 第三课，千万别想结婚的事情<br>……三十岁以后再说 | Lesson 3, don't even think about getting married till you're 30. |
 | 56 | 00.02.28,308 --> 00.02.29,722 | 三十岁，是的，你是对的 | 30, right, you're right. |
-| 57 | 00.02.29,996 --> 00.02.32,952 | 我想当你最好的朋友订婚的时候<br>你难免考虑一些有的没的 | I guess that just your best friends get engaged, you start thinking about that stuff. |
+| 57 | 00.02.29,996 --> 00.02.32,952 | 我想当你最好的朋友订婚的时候<br>你难免考虑一些有的没的 | I guess that just your best friends get engaged, you start thinking about that stuff. | think about, stuff
 | 58 | 00.02.32,953 --> 00.02.34,200 | 我以为我才是你最好的朋友 | I thought I was your best friend. |
 | 59 | 00.02.35,131 --> 00.02.37,738 | Ted，说「我才是你最好的朋友」 | Ted, say 「I'm your best friend」. |
 | 60 | 00.02.38,924 --> 00.02.39,809 | -你是我最好的朋友，Barney<br>-很好…… | -You're my best friend, Barney.<br>-Good, |
@@ -97,8 +137,8 @@ Ted 初见 Robin 时在心里有如下对白：
 | 66 | 00.02.50,228 --> 00.02.51,375 | Yasmin | Yasmin. | | |
 | 67 | 00.02.51,376 --> 00.02.52,410 | 很好听的名字 | It's a very pretty name. |
 | 68 | 00.02.52,410 --> 00.02.54,213 | 谢谢，这来源于黎巴嫩语 | Thanks. It's Lebanese. |
-| 69 | 00.02.59,701 --> 00.03.02,728 | 我都累坏了，今天是学校里的涂鸦日 | I'm exhausted. It was finger painting day at school. |
-| 70 | 00.03.02,729 --> 00.03.05,663 | 一个5岁的小鬼，上了我的二垒 | A 5-year-old boy got to second base with me. |
+| 69 | 00.02.59,701 --> 00.03.02,728 | 我都累坏了，今天是学校里的涂鸦日 | I'm exhausted. It was finger painting day at school. | exhausted |
+| 70 | 00.03.02,729 --> 00.03.05,663 | 一个5岁的小鬼，上了我的二垒 | A 5-year-old boy got to second base with me. | | 🤓😆 |
 | 71 | 00.03.07,310 --> 00.03.09,101 | 哇哦，你在做饭吗？ | Wow, are you cooking? |
 | 72 | 00.03.09,569 --> 00.03.10,684 | 是的，没错 | Yes, I am. |
 | 73 | 00.03.13,561 --> 00.03.14,657 | 你肯定这是个好主意吗？ | Are you sure that's a good idea |
@@ -115,7 +155,7 @@ Ted 初见 Robin 时在心里有如下对白：
 | 84 | 00.03.44,694 --> 00.03.45,780 | 也许在中央公园…… | possibly in Central Park |
 | 85 | 00.03.46,416 --> 00.03.48,350 | 仪式就简单点，我们更注重誓约 | simple ceremony, we are better on vows. | ceremony, vows |
 | 86 | 00.03.48,933 --> 00.03.51,827 | 乐队，不要DJ，人们各跳各的<br>我才懒得管呢 | band, no DJ, people will dance. I'm not going to worry about it. |
-| 87 | 00.03.53,017 --> 00.03.55,134 | 见鬼，Marshal干嘛这么早订婚 | *Damn it!* Why did Marshal have to get engaged! |
+| 87 | 00.03.53,017 --> 00.03.55,134 | 见鬼，Marshal干嘛这么早订婚 | *Damn it!* Why did Marshal have to get engaged! | damn |
 | 88 | 00.03.56,313 --> 00.03.59,371 | 好笑吧，一个男的想象自己的婚礼 | Yeah, nothing *hotter* than a guy planning out his imaginary wedding. | plan out | 😆 |
 | 89 | 00.03.59,372 --> 00.04.01,632 | 实际上，我觉得很可爱啊 | Actually I think it's cute. |
 | 90 | 00.04.01,633 --> 00.04.03,279 | 看样子你肯定喝多了 | Well, you're clearly drunk. | | 🤓 |
@@ -135,7 +175,7 @@ Ted 初见 Robin 时在心里有如下对白：
 | 104 | 00.04.42,705 --> 00.04.45,090 | 对不起，Carl是我的男朋友 | I'm sorry, Carl's my boyfriend. |
 | 105 | 00.04.47,363 --> 00.04.48,572 | 你好，Carl | What's up, Carl? |
 | 106 | 00.04.52,850 --> 00.04.54,658 | 我答应过Ted不会这样的 | I promised Ted we wouldn't do that. |
-| 107 | 00.04.56,083 --> 00.04.58,558 | 你注意到冰箱底下漏水了吗？ | Did you know there is a pop under your fridge? | pop: 汽水 | 
+| 107 | 00.04.56,083 --> 00.04.58,558 | 你注意到冰箱底下有瓶汽水吗？ | Did you know there is a pop under your fridge? | pop: 汽水 | 
 | 108 | 00.04.59,142 --> 00.05.00,093 | 没有，管他呢 | No, but dips. | dips |
 | 109 | 00.05.01,145 --> 00.05.02,526 | 香槟在哪儿？ | Where's that champagne? |
 | 110 | 00.05.03,418 --> 00.05.04,850 | 我想庆祝一下 | I want to *drink a toast* | | 🤓 |
